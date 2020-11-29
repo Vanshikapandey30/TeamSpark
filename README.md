@@ -1,6 +1,5 @@
 # Anti-Broke Engine WebApp
-[![Netlify Status](https://api.netlify.com/api/v1/badges/c19f93c9-024a-4e75-aade-7f7a50a54462/deploy-status)](https://app.netlify.com/sites/antibroke-engine/deploys) [![Run on Repl.it](https://repl.it/badge/github/thevrajshah/AyeAyeHackers)](https://repl.it/github/thevrajshah/AyeAyeHackers)
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c19f93c9-024a-4e75-aade-7f7a50a54462/deploy-status)](https://teamspark.netlify.app/) 
 This App can prevents you from being broke by keeping track of your income & expenses.
 
 ## The Idea
